@@ -109,7 +109,9 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaherabHossain-abhi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaherabHossain-abhi&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaherabHossain-abhi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Top Languages"/>
 
